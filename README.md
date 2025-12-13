@@ -62,14 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naidra\&layout=compact\&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naidra&theme=radical)
-
----
-
 ## 🌐 You Can Find Me On
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/ArdianSall45867)
