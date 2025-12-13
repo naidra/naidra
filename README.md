@@ -34,8 +34,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge\&logo=symfony)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 
 ### 🎨 Styling & Graphics
 
@@ -64,11 +64,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naidra\&show_icons=true\&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naidra\&layout=compact\&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naidra\&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naidra&theme=radical)
 
 ---
 
