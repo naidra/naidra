@@ -8,7 +8,7 @@
 * 👥 Experience mentoring developers and working in Agile teams
 * 🤖 Exploring **AI-powered solutions**
 
---
+---
 
 ## 🎯 Currently Focusing On
 
@@ -58,7 +58,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
---
+---
 
 ## 🌐 You Can Find Me On
 
@@ -66,6 +66,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ardian-sallauka-563006187)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/sallaukaardian)
 
----
+
 
 ⭐ *Thanks for visiting my profile — feel free to explore my repositories and connect with me!*
