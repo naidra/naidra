@@ -28,16 +28,16 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
 ### ⚛️ Frameworks & Libraries
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,symfony,laravel)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,symfony,laravel&theme=light)](https://skillicons.dev)
 
 ### 🎨 Styling & Graphics
-[![Styling & Graphics](https://skillicons.dev/icons?i=tailwind,bootstrap,css,svg,html)](https://skillicons.dev)
+[![Styling & Graphics](https://skillicons.dev/icons?i=tailwind,bootstrap,css,svg,html&theme=light)](https://skillicons.dev)
 
 ### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://skillicons.dev)
 
 ### 🛠️ Tools & Platforms
-[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,wordpress)](https://skillicons.dev)
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,wordpress&theme=light)](https://skillicons.dev)
 
 ---
 
