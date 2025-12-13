@@ -49,9 +49,7 @@
 ## You Can Find Me On
 
 [![X](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg)](https://x.com/ArdianSall45867)
-
 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/ardian-sallauka-563006187)
-
 [![Instagram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg)](https://www.instagram.com/sallaukaardian)
 
 
