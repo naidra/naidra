@@ -1,16 +1,16 @@
-# Hey 👋 What's up?
+# Hi there 👋
 
-## 👨‍💻 About Me
+## About Me
 
 * 💼 **Software Engineer | Full-Stack Developer**
-* 🧠 Specialized in **JavaScript, Node.js, React, PHP**
+* 🧠 Specialized in **JavaScript**
 * 🚀 Passionate about **scalable systems, performance & UX**
 * 👥 Experience mentoring developers and working in Agile teams
 * 🤖 Exploring **AI-powered solutions**
 
 ---
 
-## 🎯 Currently Focusing On
+## Currently Focusing On
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
@@ -19,7 +19,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
 
-## ⚙️ I Code With
+## I Code With
 
 ### 🧩 Languages
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 🌐 You Can Find Me On
+## You Can Find Me On
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/ArdianSall45867)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ardian-sallauka-563006187)
