@@ -8,7 +8,7 @@
 * 👥 Experience mentoring developers and working in Agile teams
 * 🤖 Exploring **AI-powered solutions**
 
----
+--
 
 ## 🎯 Currently Focusing On
 
@@ -18,8 +18,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
-
----
 
 ## ⚙️ I Code With
 
@@ -60,7 +58,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
----
+--
 
 ## 🌐 You Can Find Me On
 
