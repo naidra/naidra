@@ -47,10 +47,10 @@
 ---
 
 ## You Can Find Me On
-<a href="https://x.com/ArdianSall45867">
+<a href="https://x.com/ArdianSall45867" style="text-decoration:none;margin-right:20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35"/>
 </a>
-<a href="https://www.linkedin.com/in/ardian-sallauka-563006187">
+<a href="https://www.linkedin.com/in/ardian-sallauka-563006187" style="text-decoration:none;margin-right:20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
 </a>
 <a href="https://www.instagram.com/sallaukaardian">
