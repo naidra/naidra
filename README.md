@@ -8,7 +8,6 @@
 * 👥 Experience mentoring developers and working in Agile teams
 * 🤖 Exploring **AI-powered solutions**
 
----
 
 ## Currently Focusing On
 
@@ -44,7 +43,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
----
 
 ## You Can Find Me On
 <a href="https://x.com/ArdianSall45867" style="text-decoration:none;margin-right:20px;">
