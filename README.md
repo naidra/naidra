@@ -48,10 +48,8 @@
 
 ## You Can Find Me On
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/ArdianSall45867)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ardian-sallauka-563006187)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/sallaukaardian)
-
-
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/ArdianSall45867)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ardian-sallauka-563006187)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sallaukaardian)
 
 ⭐ *Thanks for visiting my profile — feel free to explore my repositories and connect with me!*
