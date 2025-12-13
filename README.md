@@ -48,14 +48,15 @@
 
 ## You Can Find Me On
 <a href="https://x.com/ArdianSall45867">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35"/>
 </a>
 <a href="https://www.linkedin.com/in/ardian-sallauka-563006187">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
 </a>
 <a href="https://www.instagram.com/sallaukaardian">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="35" style="filter: invert(1);"/>
 </a>
+
 
 
 ⭐ *Thanks for visiting my profile — feel free to explore my repositories and connect with me!*
