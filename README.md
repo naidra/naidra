@@ -44,7 +44,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 
-## You Can Find Me On
+## Find Me On
 <a href="https://x.com/ArdianSall45867">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="25"/>
 </a>
