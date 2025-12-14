@@ -86,13 +86,13 @@
 
 ## Find Me On
 <div align="left">
-  <a href="https://x.com/ArdianSall45867" target="_blank">
+  <a href="https://x.com/ArdianSall45867" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/ardian-sallauka-563006187" target="_blank">
+  <a href="https://www.linkedin.com/in/ardian-sallauka-563006187" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="https://www.instagram.com/sallaukaardian" target="_blank">
+  <a href="https://www.instagram.com/sallaukaardian" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
