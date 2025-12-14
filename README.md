@@ -17,11 +17,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
-
 -->
 
 ## 🧩 I Code With
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -52,15 +50,10 @@
   ![HTML5 Canvas](https://img.shields.io/badge/-HTML5%20Canvas-E34F26?style=for-the-badge\&logo=html5&logoColor=white)
 </div>
 
-<h2 align="left">Also Familiar with</h2>
-
-###
-
+### Also Familiar with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
 </div>
 
@@ -93,15 +86,13 @@
 
 ## Find Me On
 <div align="left">
-  <a href="https://x.com/ArdianSall45867">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="25"/>
+  <a href="https://x.com/ArdianSall45867" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
   </a>
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/ardian-sallauka-563006187">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
+  <a href="https://www.linkedin.com/in/ardian-sallauka-563006187" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/sallaukaardian">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="25" />
+  <a href="https://www.instagram.com/sallaukaardian" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
