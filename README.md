@@ -52,5 +52,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
 </a>
 <a href="https://www.instagram.com/sallaukaardian">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="25" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="25" />
 </a>
